@@ -27,7 +27,7 @@ Svájc_box_plot.opju
 Svájc_box_plot.xlsx
 #Tritium_dataset_final.xlsx
 Tritium_dataset.xlsx
-TU_precip_monmean.colle_gnifetti
+TU_precip_monmean.colle_gnifetti.csv
 XTEST.txt
 XYTEST.xlsx
 Yearly mean total sunspot number 1700 - 2017.csv
@@ -35,3 +35,4 @@ YTEST.txt
 
 docs
 results
+
